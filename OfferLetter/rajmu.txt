@@ -1,0 +1,20 @@
+Nmae :rajmu verma
+
+Designation :java developer
+
+CTC :25000
+
+	Dear Mr.rajmu verma
+	Congratulations! We are pleased to confirm you have been selected to work for 
+	(Aartek software soulation). We are delighted to make you the following job offer. 
+	The position we are offering is that of Designation :  
+	at a salary/wage of (2,50,000) per (year). 
+	This position reports to .We would like you to start work on (state desired date) at (state start time).
+	 Please report to on time for documentation and orientation. If this date is not acceptable, 
+	please contact me immediately. 
+	Please sign the enclosed copy of this letter and return it to me by (specify date) to indicate your acceptance of this offer. 
+	We are confident you will be able to make a significant contribution to the success of our future and look forward to working with you. 
+	Sincerely, 
+
+
+DOB: 
